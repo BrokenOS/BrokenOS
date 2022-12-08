@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @BrokenOS
+- 🌱 I’m currently learning Python
+- 📫 How to reach me : ryanjnear@gmail.com
